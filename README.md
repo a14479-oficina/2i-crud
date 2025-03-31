@@ -18,11 +18,7 @@ Este projeto é uma aplicação CRUD que permite criar, eliminar e atualizar pro
 
 # Requisitos
 
-Antes de iniciar, certifique-se de ter os seguintes requisitos:
-
-Um servidor online com suporte a PHP e MySQL (exemplo: 000webhost ou outro alojamento gratuito)
-
-Acesso ao painel de controle do seu provedor de hospedagem
+...........................
 
 # Instalação  
 
