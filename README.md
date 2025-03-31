@@ -48,7 +48,7 @@ http://seu-dominio.com
 
 # Estrutura do Projeto  
 
-/
+```bash
 |-- index.php       # Página inicial  
 |-- config.php      # Configuração do banco de dados  
 |-- create.php      # Criar novo registro  
@@ -57,4 +57,4 @@ http://seu-dominio.com
 |-- delete.php      # Deletar registro  
 |-- assets/         # CSS, JS, imagens  
 |-- database.sql    # Script para criar as tabelas (se disponível)  
-
+```
