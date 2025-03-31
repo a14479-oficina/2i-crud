@@ -5,7 +5,7 @@ Este projeto é uma aplicação CRUD que permite criar, eliminar e atualizar pro
 
 # Tecnologias Utilizadas
 -> PHP 
--> PHPMyAdmin
+-> PHPMyAdmin  
 -> MySQL  
 -> HTML/CSS  
 
