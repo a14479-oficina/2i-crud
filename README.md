@@ -4,9 +4,9 @@
 Este projeto é uma aplicação CRUD que permite criar, eliminar e atualizar produtos de uma base de dados MySQL. 
 
 # Tecnologias Utilizadas
--> PHP
--> MySQL
--> HTML/CSS
+-> PHP  
+-> MySQL  
+-> HTML/CSS  
 
 # Funcionalidades
 
