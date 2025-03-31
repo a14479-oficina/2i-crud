@@ -4,16 +4,17 @@
 Este projeto é uma aplicação CRUD que permite criar, eliminar e atualizar produtos de uma base de dados MySQL. 
 
 # Tecnologias Utilizadas
--> PHP  
--> MySQL
+-> PHP 
+-> PHPMyAdmin
+-> MySQL  
 -> HTML/CSS  
 
 # Funcionalidades
 
--> Criar novos produtos
--> Ver os produtos adicionados
--> Atualizar produtos
--> Eliminar produtos
+-> Criar novos produtos  
+-> Ver os produtos adicionados  
+-> Atualizar produtos  
+-> Eliminar produtos  
 
 # Requisitos
 
@@ -23,7 +24,7 @@ Um servidor online com suporte a PHP e MySQL (exemplo: 000webhost ou outro aloja
 
 Acesso ao painel de controle do seu provedor de hospedagem
 
-Instalação
+# Instalação  
 
 Clone este repositório:
 
@@ -49,16 +50,15 @@ Acesse o sistema pelo navegador:
 
 http://seu-dominio.com
 
-Estrutura do Projeto
+# Estrutura do Projeto  
 
 /
-|-- index.php       # Página inicial
-|-- config.php      # Configuração do banco de dados
-|-- create.php      # Criar novo registro
-|-- read.php        # Ler registros
-|-- update.php      # Atualizar registro
-|-- delete.php      # Deletar registro
-|-- assets/         # CSS, JS, imagens
-|-- database.sql    # Script para criar as tabelas (se disponível)
+|-- index.php       # Página inicial  
+|-- config.php      # Configuração do banco de dados  
+|-- create.php      # Criar novo registro  
+|-- read.php        # Ler registros  
+|-- update.php      # Atualizar registro  
+|-- delete.php      # Deletar registro  
+|-- assets/         # CSS, JS, imagens  
+|-- database.sql    # Script para criar as tabelas (se disponível)  
 
-Contribuição
